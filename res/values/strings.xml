@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewImage2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="default_site_path">http://file2.desktx.com/pc/wallpaper/scenery/20121005/11_7822_koodianCom_r4A.jpg</string>
+    <string name="enter_image_path">Enter the image path</string>
+    <string name="view">View</string>
+    <string name="image_view">image view</string>
+    <string name="error">error:</string>
+
+</resources>
